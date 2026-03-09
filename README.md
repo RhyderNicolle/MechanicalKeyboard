@@ -8,7 +8,7 @@ A custom, hot swappable mechanical keyboard, that is of course going to be inspi
 ## BOM (bill of materials)
 
 | Name | Qty | Price (per) | Link |
-|-----|------|-------------|
+|---------------------------------------|-----|----------------------------|
 | Microcontroller | 1 | $7.50 | [Microchip](https://www.microchip.com/en-us/product/AT90USB1286) |
 | SSD1306 128x32 OLED | 1 | $9.09 | [Etsy](https://www.etsy.com/listing/1593848368/128x32-oled-lcd-display-ssd1306-driver?gpla=1&gao=1&&utm_source=connexity&utm_medium=cpc&utm_campaign=shopping_us_bing&utm_content=5cb8f1482a211721c2d698e6196e45e6&msclkid=5cb8f1482a211721c2d698e6196e45e6&utm_term=4585100935165956) |
 | USB-C | 1 | $0.18 | [JLPCB](https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948) |
