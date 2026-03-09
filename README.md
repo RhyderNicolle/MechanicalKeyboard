@@ -24,5 +24,4 @@ A custom, hot swappable mechanical keyboard, that is of course going to be inspi
 | Kailh MX Hotswap Sockets (Pack of 10)    | 9   | $3.00       | $27.00 | [KEEBD](https://keebd.com/en-us/products/kailh-mx-hotswap-sockets)                                |
 | Cherry MX Silent Black 60g Linear Switch | 90  | $0.45       | $40.50 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/cherry-mx-silent-black-60g-linear) |
 
-|  |  |  |  |  |
-| **Total Project Cost** |  |  | **$94.68** | |
+Approximate total cost: **$94.68 USD** (excluding shipping and PCB fabrication).
