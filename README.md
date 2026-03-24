@@ -25,7 +25,7 @@ A custom, hot swappable mechanical keyboard, that is of course going to be inspi
 | Cherry MX Silent Black 60g Linear Switch | 90  | $0.45       | $40.50 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/cherry-mx-silent-black-60g-linear) |
 | USB6B1                                   | 1   | $0.47       | $0.47  | [LCSC](https://www.lcsc.com/product-detail/C283483.html)                                          |
 
-Approximate total cost: **$94.68 USD** (excluding shipping and PCB fabrication).
+Approximate total cost: **$95.15 USD** (excluding shipping and PCB fabrication).
 
 ## Schematic
 
